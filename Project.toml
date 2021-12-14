@@ -1,0 +1,8 @@
+name = "RegularizationDP"
+uuid = "4e2cbea4-6c99-49b7-b747-2b22fd8b4b44"
+authors = ["Daniel O'Malley <omalled@lanl.gov>"]
+version = "0.1.0"
+
+[deps]
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
